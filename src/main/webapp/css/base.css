@@ -1,0 +1,21 @@
+.dialog {
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    z-index: 9999;
+    border:1px solid #5A9CCC;
+    background:#FFF;
+    display: none;
+}
+
+.dialog.visible {
+    display: block;
+}
+
+.clickable-row:hover {
+    cursor: pointer;
+}

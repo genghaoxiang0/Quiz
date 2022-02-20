@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: genghaoxiang
+Build-Jdk: Oracle OpenJDK version 1.8.0_241
+Implementation-Title: Quiz
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ghx
+Main-Class: ${start-class}
+
